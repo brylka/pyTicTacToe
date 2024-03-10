@@ -17,6 +17,11 @@ In addition to the backend, a web application (HTML/CSS/JS/jQuery/Ajax) and a mo
 ## Launching
 To run the backend, simply execute the `main.py` file. Detailed instructions on how to launch client applications are available in the documentation of the respective project parts.
 
+## Project Repositories
+- Backend: [https://github.com/brylka/pyTicTacToe/](https://github.com/brylka/pyTicTacToe/)
+- WebApi: [https://github.com/brylka/webTicTacToe/](https://github.com/brylka/webTicTacToe/)
+- Mobile Application: [https://github.com/brylka/appTicTacToe/](https://github.com/brylka/appTicTacToe/)
+
 ---
 
 The project is part of educational materials and serves as an introduction to more advanced topics related to the development of web and mobile applications.

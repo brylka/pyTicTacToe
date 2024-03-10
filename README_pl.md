@@ -17,6 +17,11 @@ W ramach projektu stworzona została również aplikacja webowa (HTML/CSS/JS/jQu
 ## Uruchomienie
 Aby uruchomić backend, wystarczy uruchomić plik `main.py`. Szczegółowy opis, jak uruchomić aplikacje klienckie, znajduje się w dokumentacji poszczególnych części projektu.
 
+## Repozytoria projektu
+- Backend: [https://github.com/brylka/pyTicTacToe/](https://github.com/brylka/pyTicTacToe/)
+- WebApi: [https://github.com/brylka/webTicTacToe/](https://github.com/brylka/webTicTacToe/)
+- Aplikacja mobilna: [https://github.com/brylka/appTicTacToe/](https://github.com/brylka/appTicTacToe/)
+
 ---
 
 Projekt jest częścią materiałów dydaktycznych i służy jako wstęp do bardziej zaawansowanych tematów związanych z tworzeniem aplikacji internetowych i mobilnych.
